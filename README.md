@@ -1,27 +1,13 @@
-# AI Genesis 2025 - Opus Workflow Automation
+# 🤖 Intelligent Customer Support Automation System
 
-## 🎯 AppliedAI/Opus Challenge
-Building intelligent, traceable workflow automation
+> **AI Genesis Hackathon Project** | *Team Wipemation* | *2.5-Day Sprint*
 
-## 👥 Team
-- [Names will be added after kickoff meeting]
+## 🚀 Project Overview
 
-## 🚀 Quick Start
-1. Clone this repository: `git clone [your-repo-url]`
-2. Generate sample data: `python scripts/data_generator.py`
-3. Open Opus platform and start building!
+An intelligent customer support automation system that combines **AppliedAI Opus workflows** with **Google Gemini AI** to automatically process, categorize, and route customer support tickets from Google Sheets.
 
-## 📁 Project Structure
-- `opus_workflows/` - Opus workflow files & exports
-- `data/` - Sample inputs & processed outputs
-- `scripts/` - Helper scripts & data generators
-- `docs/` - Documentation & submission assets
-- `screenshots/` - Workflow screenshots & diagrams
-- `research/` - Challenge research & references
+## 🎯 Problem Statement
 
-## 🛠️ Opus Components We'll Build
-- Data import from external source
-- AI reasoning + rule-based decisions
-- Agentic Review + Human Review steps
-- Audit trail generation (JSON/PDF)
-- Outcome delivery (Email/Sheets/API)
+Customer support teams face overwhelming ticket volumes. Our solution automates ticket processing using AI-powered categorization, smart routing, and human review workflows.
+
+## 🏗️ Architecture
